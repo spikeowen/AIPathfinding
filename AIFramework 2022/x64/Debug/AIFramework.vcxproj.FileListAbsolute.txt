@@ -1,0 +1,3 @@
+F:\AI\AI Framework\AIFramework 2022\x64\Debug\AIFramework.exe
+D:\AI\AI Framework\AIFramework 2022\x64\Debug\AIFramework.exe
+D:\Github\AIPathfinding\AIFramework 2022\x64\Debug\AIFramework.exe
